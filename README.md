@@ -26,8 +26,10 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioGiacon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Caio"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGiacon&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
+
+[![Estatísticas do Caio](https://github-readme-stats.vercel.app/api?username=CaioGiacon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/CaioGiacon)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGiacon&layout=compact&langs_count=7&theme=dracula)](https://github.com/CaioGiacon)
+
 </div>
 
 ## 📬 Contatos
