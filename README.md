@@ -31,6 +31,7 @@
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGiacon&layout=compact&langs_count=7&theme=dracula)](https://github.com/CaioGiacon)
 
 </div>
+
 ## 📬 Contatos
 
 <div align="left">
