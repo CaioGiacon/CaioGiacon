@@ -8,7 +8,6 @@
 - 🔭 Atualmente no **7° semestre de Ciência da Computação** na UNIP.
 - 🌱 Focado em **desenvolvimento back-end com Python**, preparando o terreno para atuar com **Engenharia de IA** no futuro.
 - 👯 Buscando a minha **primeira oportunidade** na área tech para aplicar meus conhecimentos, agregar valor e aprender no dia a dia.
-- 💬 Pergunte-me sobre **Python, banco de dados ou tecnologia em geral**.
 
 ## 🛠️ Ferramentas e Tecnologias
 
