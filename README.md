@@ -1,17 +1,17 @@
 # Olá, me chamo Caio! 👋
-**Estudante de Ciência da Computação | Desenvolvedor Back-end Python | Futuro Engenheiro de IA**
+**Estudante de Ciência da Computação | Desenvolvedor Back-end Java**
 
 ---
 
 ## 👨‍💻 Sobre mim
 
 - 🔭 Atualmente no **7° semestre de Ciência da Computação** na UNIP.
-- 🌱 Focado em **desenvolvimento back-end com Python**, preparando o terreno para atuar com **Engenharia de IA** no futuro.
+- 🌱 Focado em **desenvolvimento back-end com Java**, preparando o terreno para atuar com **Dev Júnior** no futuro.
 - 👯 Buscando a minha **primeira oportunidade** na área tech para aplicar meus conhecimentos, agregar valor e aprender no dia a dia.
 
 ## 🛠️ Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="Azure SQL" title="Azure SQL Database" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="Azure SQL" title="Azure SQL Database" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /> 
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do Caio](https://streak-stats.demolab.com/?user=CaioGiacon&theme=dracula&hide_border=true)
