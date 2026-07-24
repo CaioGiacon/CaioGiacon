@@ -5,9 +5,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente no **7° semestre de Ciência da Computação** na UNIP.
-- 🌱 Focado em **desenvolvimento back-end com Java**, preparando o terreno para atuar com **Dev Júnior** no futuro.
-- 👯 Buscando a minha **primeira oportunidade** na área tech para aplicar meus conhecimentos, agregar valor e aprender no dia a dia.
+- 🔭 Atualmente no **8° semestre de Ciência da Computação** na UNIP.
+- 🌱 **Desenvolvimento back-end Java**
+
 
 ## 🛠️ Ferramentas e Tecnologias
 
